@@ -5,7 +5,7 @@ void sum(int x,int y)
 }
 int main()
 {
-	printf("Sum:");
+	printf("The sum is:");
 	sum(2,3);
 	return 0;
 }
